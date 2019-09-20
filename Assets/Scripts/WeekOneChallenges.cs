@@ -1,4 +1,16 @@
-﻿using System.Collections;
+﻿/**********************************************
+ * WeekOneChallenges.cs
+ * 
+ * The purpose of this code is to learn how to script in C#
+ * It initialises a number of personal information variables
+ * and outputs a sentence string out to Unity Console
+ * 
+ * Created by Chris Casmenco 2019
+ *
+ * ********************************************/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
